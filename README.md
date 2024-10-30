@@ -75,5 +75,5 @@ Here's a concise description of each algorithm presented earlier, in a pointwise
 - **Method:**
   - Select a pivot element.
   - Rearrange the array so elements less than the pivot come before it, and those greater come after.
-  - Recursively apply the same logic to the sub-arrays.
+
 

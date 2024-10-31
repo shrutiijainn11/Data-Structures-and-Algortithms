@@ -72,7 +72,7 @@ Here's a concise description of each algorithm presented earlier, in a pointwise
 
 ### 11. Quick Sort
 - **Purpose:** Sorts an array by partitioning it into elements less than and greater than a pivot.
-- **Method:**
+
   
 
 

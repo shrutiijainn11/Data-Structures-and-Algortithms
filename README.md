@@ -68,7 +68,7 @@ Here's a concise description of each algorithm presented earlier, in a pointwise
 - **Purpose:** Sorts an array by dividing it into halves, sorting them, and merging back together.
 - **Method:**
   - Recursively split the array into halves until single-element arrays are reached.
-  - Merge sorted halves back together, ensuring order is maintained.
+ 
 
 
 

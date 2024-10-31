@@ -70,7 +70,7 @@ Here's a concise description of each algorithm presented earlier, in a pointwise
   - Recursively split the array into halves until single-element arrays are reached.
   - Merge sorted halves back together, ensuring order is maintained.
 
-### 11. Quick Sort
+
 - **Purpose:** Sorts an array by partitioning it into elements less than and greater than a pivot.
 
   

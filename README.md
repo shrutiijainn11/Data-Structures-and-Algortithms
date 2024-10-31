@@ -66,7 +66,7 @@ Here's a concise description of each algorithm presented earlier, in a pointwise
 
 ### 10. Merge Sort
 - **Purpose:** Sorts an array by dividing it into halves, sorting them, and merging back together.
-- **Method:*
+- **Method:
   
  
 

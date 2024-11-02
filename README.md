@@ -65,7 +65,7 @@ Here's a concise description of each algorithm presented earlier, in a pointwise
   - Adjust pointers based on comparison until the target is found or pointers converge.
 
 ### 10. Merge Sort
-- **Purpose:** Sorts an array by dividing it into halves, sorting them, and merging back togeth
+- **Purpose:** Sorts an array by dividing it into halves, sorting them, and merging back 
 
   
  

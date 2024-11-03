@@ -64,7 +64,7 @@ Here's a concise description of each algorithm presented earlier, in a pointwise
   - Calculate the mid-point, comparing the target with the middle element.
   - Adjust pointers based on comparison until the target is found or pointers converge.
 
-### 10. Merge Sort
+
 
 
   

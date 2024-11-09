@@ -61,7 +61,7 @@ Here's a concise description of each algorithm presented earlier, in a pointwise
 - **Purpose:** Efficiently finds the position of a target value in a sorted array.
 - **Method:**
   - Initialize left and right pointers.
-  - Calculate the mid-point, comparing the target with
+  - Calculate the mid-point, comparing the target
 
 
 

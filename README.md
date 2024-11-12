@@ -59,7 +59,7 @@ Here's a concise description of each algorithm presented earlier, in a pointwise
 
 ### 9. Binary Search
 - **Purpose:** Efficiently finds the position of a target value in a sorted array.
-- **Method:**
+
 
     
 

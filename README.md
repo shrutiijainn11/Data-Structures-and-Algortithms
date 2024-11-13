@@ -57,7 +57,7 @@ Here's a concise description of each algorithm presented earlier, in a pointwise
   - Use a queue to process vertices with zero in-degree.
   - Add processed vertices to the topological order and update in-degrees accordingly.
 
-### 9. Binary Search
+### 9. Binary Sea
 
 
     

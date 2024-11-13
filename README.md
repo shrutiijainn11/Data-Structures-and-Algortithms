@@ -58,7 +58,6 @@ Here's a concise description of each algorithm presented earlier, in a pointwise
   - Add processed vertices to the topological order and update in-degrees accordingly.
 
 ### 9. Binary Search
-- **Purpose:** Efficiently finds the position of a target value in a sorted
 
 
     
